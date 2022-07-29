@@ -5,7 +5,7 @@ For further information visit our repositories or our official [documentation](h
 For developers and contributors visit our [Developer Docs](https://api3-1.gitbook.io/developer-documentation/).
 
 ## Who we are
-An independent team working on cool stuff related with Web3 technologies. Making the best out of API3 technologies, and exploring more crazy integrations to enhance the current desccentralized ecosystems
+An independent team working on cool stuff related with Web3 technologies. Making the best out of API3 products, and exploring more crazy integrations to enhance the current desccentralized ecosystems
 
 ## Active Repositories
 - [Liquid Oracles](https://github.com/api3latam/liquid-oracles): Airnode and Beacon Implementations for Pyliquid and Liquid Tooling.
