@@ -1,2 +1,2 @@
-# .github
-Repository for Organization README
+# Organization README
+Special Repository for Organization README
