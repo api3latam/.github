@@ -1,7 +1,8 @@
 # API3 LATAM
 
-For further information visit our repositories or our official [documentation](https://api3-1.gitbook.io/api-latam-user-documentation/)
-For developers and contributors visit our [Developer Docs](https://api3-1.gitbook.io/developer-documentation/)
+For further information visit our repositories or our official [documentation](https://api3-1.gitbook.io/api-latam-user-documentation/).
+
+For developers and contributors visit our [Developer Docs](https://api3-1.gitbook.io/developer-documentation/).
 
 ## Who we are
 An independent team working on cool stuff related with Web3 technologies. Making the best out of API3 technologies, and exploring more crazy integrations to enhance the current desccentralized ecosystems
